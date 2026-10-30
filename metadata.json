@@ -1,0 +1,6 @@
+{
+  "name": "Smart Automation Platform",
+  "description": "Intelligent enterprise workflow orchestration and process automation powered by Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
